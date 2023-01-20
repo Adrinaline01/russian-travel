@@ -8,3 +8,4 @@
 Планов на доработку проекта на данный момент нет.
 
 Ссылка на GitHub: https://github.com/Adrinaline01/russian-travel
+Ссылка на GitHub Pages: https://adrinaline01.github.io/russian-travel/
